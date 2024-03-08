@@ -16,6 +16,14 @@ Model 3: Random Forest
 
 ## Model Performance
 ![image](https://github.com/YuchenZhu2335/BIS568-final-project/assets/143673300/9432633b-0e75-4851-aa73-89986d1e2173)
+![image](https://github.com/YuchenZhu2335/BIS568-final-project/assets/143673300/17b08914-f838-4e39-bd64-c4f3513efb8c)
+![image](https://github.com/YuchenZhu2335/BIS568-final-project/assets/143673300/d735f90c-b59c-412c-b342-a55d9facef80)
+Model 1: Logistic Regression
+AUC = 0.60; PR-AUC = 0.08 Terrible Precision-Recall Curve; The model is also not well calibrated. 
+Model 2: Random Forest
+AUC = 0.95; PR-AUC = 0.83 Good Precision-Recall Curve; But the model is not that well calibrated.
+Model 3: XGBoost
+AUC = 0.93; PR-AUC = 0.72 Good Precision-Recall Curve; And the model is the most calibrated one among all three algorithms; Overall XGBoost is the best algorithm we can get.
 
 
 

@@ -14,6 +14,8 @@ Model 1: Logistic Regression
 Model 2: XGBoost
 Model 3: Random Forest
 
+## Model Performance
+![image](https://github.com/YuchenZhu2335/BIS568-final-project/assets/143673300/9432633b-0e75-4851-aa73-89986d1e2173)
 
 
 
